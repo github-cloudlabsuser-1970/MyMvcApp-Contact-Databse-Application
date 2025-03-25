@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "location": {
-        "value": "East US"
+        "value": "West US"
       },
       "appServicePlanName": {
         "value": "MyMvcAppServicePlan"
@@ -12,7 +12,7 @@
         "value": "MyMvcApp"
       },
       "sqlServerName": {
-        "value": "myMvcAppSqlServer"
+        "value": "mymvcapplautaro2025-server"
       },
       "sqlDatabaseName": {
         "value": "MyMvcAppDatabase"
